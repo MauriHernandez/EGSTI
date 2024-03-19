@@ -1,0 +1,22 @@
+/* Estilos personalizados para la escuela privada */
+#contenido {
+    background-color: #f8f9fa; /* Color de fondo */
+    padding: 20px; /* Espaciado interno */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra */
+}
+
+.navbar-brand {
+    font-family: 'Arial', sans-serif; /* Cambio de fuente */
+    font-size: 24px; /* Tamaño de fuente */
+}
+
+.navbar-nav .nav-link {
+    font-family: 'Arial', sans-serif; /* Cambio de fuente */
+    font-size: 18px; /* Tamaño de fuente */
+    color: #000; /* Color del texto */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff; /* Color del texto al pasar el mouse */
+}
